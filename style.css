@@ -73,7 +73,7 @@ h2.sticky {
 	position: fixed;
     float: right;
     bottom: 10px;
-    right: 75px;
+    right: 2px;
     width: 400px;
     height: 450px;
     border-top: 8px dotted #73AD21;
