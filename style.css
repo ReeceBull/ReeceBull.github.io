@@ -40,6 +40,7 @@ li:hover {
   border: 3px dotted #3a7999;
 }
 img {
+  max-width: 100%;
   float: right;
   z-index: -1px;
 }
@@ -77,6 +78,7 @@ h2.sticky {
     height: 450px;
     border-top: 8px dotted #73AD21;
     border-right: 8px dotted #73AD21;
+    max-width: 100%;
 }
 
 /* Links */
