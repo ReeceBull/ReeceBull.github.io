@@ -51,6 +51,7 @@ img {
   border-bottom: 20px;
   border-right: 20px;
   border-color: #20b2aa; 
+  padding-left: 50px;
 }
 .ListContainer {
   color: rgba(0, 255, 0, 0.75);
