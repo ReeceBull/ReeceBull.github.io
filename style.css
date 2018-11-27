@@ -70,8 +70,9 @@ h2.sticky {
 
 .neck {
 	position: fixed;
+    float: right;
     bottom: 10px;
-    right: 162px;
+    right: 75px;
     width: 400px;
     height: 450px;
     border-top: 8px dotted #73AD21;
