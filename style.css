@@ -45,12 +45,7 @@ img {
   max-width: 100%;
   float: right;
   z-index: -15px;
-  bottom: 850px;
-  border-style: dotted;
-  border-width: 15px;
-  border-bottom: 20px;
-  border-right: 20px;
-  border-color: #20b2aa; 
+  bottom: 850px; 
   padding-left: 50px;
 }
 .ListContainer {
