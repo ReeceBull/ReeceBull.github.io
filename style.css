@@ -39,7 +39,10 @@ li:hover {
   background-color: #20b2aa;
   border: 3px dotted #3a7999;
 }
-
+img {
+  float: right;
+  z-index: -1px;
+}
 .ListContainer {
   color: rgba(0, 255, 0, 0.75);
   border-radius: 50px;
